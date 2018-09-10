@@ -1,2 +1,3 @@
 # EJNV
-Micro arcade final project
+Micro arcade final project: Space invaders!
+Moved to private gitlab. Contact for questions.
